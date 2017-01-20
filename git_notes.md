@@ -5,7 +5,7 @@ Commands to run when running Git
 
 git status
 
-git log
+git log # show a change log
 
 git commit -a  -m 
 
