@@ -7,8 +7,4 @@ git status
 
 git log
 
-git commit -a  -m
-
-git output none
-
-
+git commit -a  -m 
