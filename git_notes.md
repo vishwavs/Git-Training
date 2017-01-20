@@ -9,7 +9,7 @@ git log # show a change log
 
 git commit -a  -m 
 
-git diff
+git diff <commit name>
 
 git push
 
