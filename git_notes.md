@@ -3,4 +3,8 @@ Training on Git
 
 Commands to run when running Git
 
+git status
 
+git log
+
+git commit -a  -m 
