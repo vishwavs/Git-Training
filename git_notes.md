@@ -5,11 +5,11 @@ Commands to run when running Git
 
 git status
 
-git log change by Vishwa
+git log # show a change log
 
 git commit -a  -m 
 
-git diff New change 12:52
+git diff <commit name>
 
 git push
 
