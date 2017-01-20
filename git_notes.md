@@ -8,3 +8,5 @@ git status
 git log
 
 git commit -a  -m 
+
+git diff
